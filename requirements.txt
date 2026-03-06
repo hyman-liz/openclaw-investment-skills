@@ -7,3 +7,7 @@ scikit-learn
 scipy
 python-dotenv
 schedule
+xbbg
+pycot-reports
+textblob
+WindPy
