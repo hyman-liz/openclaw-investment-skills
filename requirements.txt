@@ -1,0 +1,9 @@
+openclaw-sdk
+pandas
+numpy
+tushare
+requests
+scikit-learn
+scipy
+python-dotenv
+schedule
